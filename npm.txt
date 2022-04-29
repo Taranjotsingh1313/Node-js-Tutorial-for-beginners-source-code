@@ -1,0 +1,20 @@
+npm --> node package manager
+npm used to download third party modules in node js
+
+to download package using npm we use the below command:-
+ [ npm install packagename
+ short hand command for downloading node packages :-
+npm i packagename ]
+
+to uninstall any package:
+npm uninstall packagename
+
+
+local vs global packages
+npm install packagename or npm i packagename :- install package in my local folder
+
+
+to create package.json file using npm use command :- npm init
+
+
+to install node js module globally ----> npm i packagename -g
